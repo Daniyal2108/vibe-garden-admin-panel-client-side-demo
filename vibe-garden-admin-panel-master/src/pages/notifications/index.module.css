@@ -1,0 +1,13 @@
+.select_date::-webkit-calendar-picker-indicator {
+  background: url("../../assets/icons/calendar.PNG") no-repeat;
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+}
+
+.select_time::-webkit-calendar-picker-indicator {
+  background: url("../../assets/icons/clock.PNG") no-repeat;
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+}
